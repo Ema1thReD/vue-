@@ -19,8 +19,7 @@
           <p class="name">{{ item.name }}</p>
           <p class="description">{{ item.description }}</p>
         </div>
-       
-          <amplify-s3-image path="images/"></amplify-s3-image>
+          <amplify-s3-album path="images/"></amplify-s3-album>
       </div>
     </div>
   </div>
